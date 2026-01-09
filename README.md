@@ -1,14 +1,45 @@
-# 💫 About Me:
-🔭 I’m currently working on Unlimitech<br>👯 I’m looking to collaborate on Google & Tesla<br>🌱 I’m currently learning Machine Learning & MLOps<br>
+# Hi there, I'm [Tu Nombre] 👋 
 
+## 🧠 Engineering the Backend | Infusing Intelligence
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andres.xz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alizoandres11@gmail.com) 
+I am a **Full Stack Developer** with a deep-rooted passion for **Backend Architecture and Logic**. With years of professional experience mastering the **Laravel** ecosystem, I focus on building robust, scalable foundations for modern applications.
 
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=izJester&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=izJester&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=izJester&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+My journey has led me into the world of **Machine Learning & MLOps**, where I am an active self-taught explorer. I specialize in building and training models using **TensorFlow and Keras**, moving beyond static code into the realm of predictive logic.
 
+---
+
+### 🚀 Quick Overview
+- 🔭 **Currently working on:** [Unlimitech](https://github.com/izJester) - *Architecting backend solutions.*
+- 🌱 **Learning Path:** Deepening my knowledge in **MLOps** to bridge the gap between model development and production.
+- 👯 **Looking to collaborate on:** High-impact projects at the scale of **Google** or **Tesla**.
+
+---
+
+### 💻 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Logic** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Machine Learning** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
+| **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=izJester&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izJester&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="180px" />
+</p>
+
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=izJester&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+### 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andres.xz) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizoandres11@gmail.com)
+
+---
+*“I don’t just build apps that work; I build apps that think.”*
