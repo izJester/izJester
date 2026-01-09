@@ -9,9 +9,8 @@ My journey has led me into the world of **Machine Learning & MLOps**, where I am
 ---
 
 ### 🚀 Quick Overview
-- 🔭 **Currently working on:** [Unlimitech](https://github.com/izJester) - *Architecting backend solutions.*
 - 🌱 **Learning Path:** Deepening my knowledge in **MLOps** to bridge the gap between model development and production.
-- 👯 **Looking to collaborate on:** High-impact projects at the scale of **Google** or **Tesla**.
+- 👯 **Looking to collaborate on:** High-impact projects at the scale of **Google**.
 
 ---
 
@@ -23,19 +22,7 @@ My journey has led me into the world of **Machine Learning & MLOps**, where I am
 | **Machine Learning** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
 | **Mobile & Frontend** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
----
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=izJester&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izJester&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="180px" />
-</p>
-
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=izJester&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
-
----
 
 ### 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andres.xz) 
